@@ -46,8 +46,7 @@ def test_hybrid(playwright: Playwright,user_cred,browserInstance):
    # context.close()
    # brow.close()
 
-# TESTED
-    hist = OrderHistory()
+
 
 
 
